@@ -1,6 +1,10 @@
 # Video
 
-https://github.com/seanflyyy/calhacks-stabletest-fe/assets/50956270/1907ae2e-e7d5-456b-907c-45e40b3f7a1b
+
+
+https://github.com/seanflyyy/calhacks-stabletest-fe/assets/50956270/57162a0a-c19c-44fc-9815-9f038d44c27d
+
+
 
 # Inspiration
 As the lines between AI-generated and real-world images blur, the integrity and trustworthiness of visual content have become critical concerns. Traditional metadata isn't as reliable as it once was, prompting us to seek out groundbreaking solutions to ensure authenticity.
